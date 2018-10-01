@@ -1,3 +1,4 @@
 Debugging.pdf
 node_modules/
 .vsc*
+package-lock.json
