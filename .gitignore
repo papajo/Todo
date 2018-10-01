@@ -2,7 +2,4 @@ Debugging.pdf
 node_modules/
 package-lock.json
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!./vscode/launch.json
-!./vscode/extensions.json
+.vscode/settings.json
