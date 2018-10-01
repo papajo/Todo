@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "only-test": "mocha --inspect-brk ./searchquery.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
