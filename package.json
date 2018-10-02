@@ -4,5 +4,25 @@
   },
   "dependencies": {
     "chai": "^4.2.0"
-  }
+  },
+  "name": "testcolor",
+  "description": "test color change",
+  "version": "1.0.0",
+  "main": "testColor.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papajo/Todo.git"
+  },
+  "keywords": [
+    "todo",
+    "color",
+    "change"
+  ],
+  "author": "pjoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papajo/Todo/issues"
+  },
+  "homepage": "https://github.com/papajo/Todo#readme"
 }

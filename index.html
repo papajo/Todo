@@ -1,0 +1,27 @@
+/* Change Paragraph Color Solution and Evaluation */
+
+//HTML
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style type="text/css"> 
+    p {
+        color: blue;
+      }
+</style>
+</head>
+<body>
+  <p>
+    Some text.
+  </p>
+  <button onclick="javascript:changeColor();">
+    Change color
+  </button>
+  <script type="text/javascript">
+      function changeColor() {
+                document.getElementsByTagName('p')[0].style.color = 'red';
+      }
+  </script>
+</body>
+</html>
